@@ -3,7 +3,7 @@
 A simple OOP-style wrapper for `setInterval`.
 
 ```javascript
-var Interval = require('af-interval');
+var Interval = require('afo-interval');
 
 var timer = new Interval(function(){
     console.log(new Date().toISOString());
