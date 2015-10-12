@@ -1,0 +1,25 @@
+{
+  "name": "afo-interval",
+  "version": "1.0.1",
+  "description": "OOP-style setInterval wrapper",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zamnuts/afo-interval.git"
+  },
+  "author": "Andrew Zammit",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  },
+  "keywords": [
+    "interval"
+  ]
+}
